@@ -1,0 +1,12 @@
+.food-list {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.food-list__item {
+    list-style: none;
+    width: 32%;
+}
