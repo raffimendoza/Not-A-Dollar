@@ -16,6 +16,7 @@ Need to start the login file then product file.
 7. terminal: npm start
 8. Using visual studio code open Not-A-Dollar-main file
 9. terminal: npm install
-10. terminal: npm start
-11. open browser with "http://localhost:5000/". Can change port in app.js function app.listen()
+10. terminal: npm install react-router-dom --save
+11. terminal: npm start
+12. open browser with "http://localhost:5000/". Can change port in app.js function app.listen()
     
